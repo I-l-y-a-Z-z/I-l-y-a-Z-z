@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Ilyas Rahmouni</h1>
-<h3 align="center">Computer Science Student @ UM6P | Future Software Engineer</h3>
+<h3 align="center">Computer Science Student @ UM6P | Future AI/ML Engineer</h3>
 
 ---
 
