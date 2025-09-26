@@ -6,7 +6,7 @@
 
 ### About Me
 - Studying in the **engineering preparatory cycle** at **UM6P**  
-- Passionate about **software engineering, cloud, and automation**  
+- Passionate about **software engineering, ML, cloud, and automation**  
 - Exploring new technologies and building hands-on projects  
 - Currently learning: **Systems, Docker, React + Vite, and scalable design**  
 
